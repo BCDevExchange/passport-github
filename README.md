@@ -1,5 +1,4 @@
 # Passport-GitHub2
-<a rel="Delivery" href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"><img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." style="border-width:0" src="http://bcdevexchange.org/badge/3.svg" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." /></a>
 
 The author of Passport-Github has not maintain module for a long time. Features in his module don't work since Github upgraded their API to version 3.0.  We forked it and re-publish it to NPM with a new name `passport-github2`.
 
